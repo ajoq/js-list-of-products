@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ss7yauncarvdlhqu?svg=true)](https://ci.appveyor.com/project/ajoq/list-of-products)
 
-https://ajoq.github.io/list-of-products/
+https://ajoq.github.io/js-list-of-products/
 
 ---
 
